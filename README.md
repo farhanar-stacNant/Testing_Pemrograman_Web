@@ -5,3 +5,4 @@ Jalan Belajar Mengenai Perograman Web
 - CSS manual Box, Margin, Text
 - JavaScript
 - Git
+- MySQL
