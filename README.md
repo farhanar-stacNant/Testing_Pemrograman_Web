@@ -6,3 +6,4 @@ Jalan Belajar Mengenai Perograman Web
 - JavaScript
 - Git
 - MySQL
+- React Js
