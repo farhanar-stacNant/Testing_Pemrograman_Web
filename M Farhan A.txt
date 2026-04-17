@@ -1,0 +1,5 @@
+Nama Moh Farhan Ali
+NIM  24102016
+S1 Informatika
+
+Praktikum Clonning, Pembuatan, Penambahan, Perubahan, Penyimpanan Git
